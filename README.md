@@ -9,9 +9,7 @@ To adhere to the Dependency Inversion Principle (DIP) and ensure flexibility for
 
 Your solution should not violate other SOLID principles.
 
-Create a repository in your GitHub account. Put your solution there. In the readMe file must include the problem statement, UML Class Diagram of Proposed solution.
-
-Make sure you have a TestProgram that will validate the proposed refactored codes.
-
 
 # Class Diagram
+
+![Blank diagram (8)](https://github.com/Reirinn/Solid-Principles-w-Design-Pattern/assets/142465054/a1727103-c960-4db1-b8a1-33f1f73764ec)
